@@ -1,1 +1,1 @@
-# teaching
+# Teaching materials for Gisma classes.
