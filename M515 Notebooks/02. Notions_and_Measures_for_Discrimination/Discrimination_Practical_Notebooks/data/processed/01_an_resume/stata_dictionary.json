@@ -1,0 +1,267 @@
+{
+  "data_bootstrap_gpt35.dta": {
+    "variable_labels": {
+      "gpt35_base": "gpt35_base",
+      "SamplingRound": "Sampling Round",
+      "b": "b",
+      "se": "se",
+      "p": "p",
+      "F": ".05",
+      "G": ".95"
+    },
+    "value_labels": {},
+    "warnings": []
+  },
+  "data_gpt35_baseline.dta": {
+    "variable_labels": {
+      "score_gpt35": "Score_Gpt35_With_Name",
+      "worknum": "Work Num",
+      "edunum": "Edu Num",
+      "skillnum": "Skill Num",
+      "avg_duration_work": "",
+      "num_high_level": "",
+      "avg_length_work_desc": "",
+      "first_work_start": "",
+      "last_work_title": "Work_1_Title",
+      "duration_edu": "",
+      "first_edu_start": "",
+      "highest_degree": "Edu_1_Level",
+      "igender": "Gender",
+      "iethnicity": "Ethnicity",
+      "iposition": "",
+      "istate": "State of Residence",
+      "minority": ""
+    },
+    "value_labels": {
+      "igender": {
+        "1": "female",
+        "2": "male"
+      },
+      "iethnicity": {
+        "1": "black",
+        "2": "white"
+      },
+      "iposition": {
+        "1": "administrative assistant",
+        "2": "animal care worker",
+        "3": "cashier",
+        "4": "dishwasher",
+        "5": "food preparation worker",
+        "6": "food server",
+        "7": "housekeeper",
+        "8": "information and record clerk",
+        "9": "janitor",
+        "10": "library assistant",
+        "11": "manufacturing worker",
+        "12": "medical assistant",
+        "13": "office clerk",
+        "14": "order clerk",
+        "15": "personal and home care aide",
+        "16": "receptionist and information",
+        "17": "retail salesperson",
+        "18": "shift manager",
+        "19": "social worker",
+        "20": "truck driver"
+      },
+      "istate": {
+        "1": "CA",
+        "2": "FL",
+        "3": "GA",
+        "4": "NY",
+        "5": "TX"
+      },
+      "highest_degree": {
+        "1": "associate",
+        "2": "bachelor",
+        "3": "high_school",
+        "4": "master",
+        "5": "others"
+      }
+    },
+    "warnings": [
+      "One or more strings in the dta file could not be decoded using utf-8, and\nso the fallback encoding of latin-1 is being used.  This can happen when a file\nhas been incorrectly encoded by Stata or some other software. You should verify\nthe string values returned are correct."
+    ]
+  },
+  "data_gpt35_heter.dta": {
+    "variable_labels": {
+      "score_gpt35": "Score_Gpt35_With_Name",
+      "worknum": "Work Num",
+      "edunum": "Edu Num",
+      "skillnum": "Skill Num",
+      "avg_duration_work": "",
+      "num_high_level": "",
+      "avg_length_work_desc": "",
+      "first_work_start": "",
+      "last_work_title": "Work_1_Title",
+      "duration_edu": "",
+      "first_edu_start": "",
+      "highest_degree": "Edu_1_Level",
+      "igender": "Gender",
+      "iethnicity": "Ethnicity",
+      "iposition": "",
+      "istate": "State of Residence",
+      "minority": "",
+      "median_female_bls": "",
+      "median_black_bls": ""
+    },
+    "value_labels": {
+      "igender": {
+        "1": "female",
+        "2": "male"
+      },
+      "iethnicity": {
+        "1": "black",
+        "2": "white"
+      },
+      "iposition": {
+        "1": "administrative assistant",
+        "2": "animal care worker",
+        "3": "cashier",
+        "4": "dishwasher",
+        "5": "food preparation worker",
+        "6": "food server",
+        "7": "housekeeper",
+        "8": "information and record clerk",
+        "9": "janitor",
+        "10": "library assistant",
+        "11": "manufacturing worker",
+        "12": "medical assistant",
+        "13": "office clerk",
+        "14": "order clerk",
+        "15": "personal and home care aide",
+        "16": "receptionist and information",
+        "17": "retail salesperson",
+        "18": "shift manager",
+        "19": "social worker",
+        "20": "truck driver"
+      },
+      "istate": {
+        "1": "CA",
+        "2": "FL",
+        "3": "GA",
+        "4": "NY",
+        "5": "TX"
+      },
+      "highest_degree": {
+        "1": "associate",
+        "2": "bachelor",
+        "3": "high_school",
+        "4": "master",
+        "5": "others"
+      }
+    },
+    "warnings": [
+      "One or more strings in the dta file could not be decoded using utf-8, and\nso the fallback encoding of latin-1 is being used.  This can happen when a file\nhas been incorrectly encoded by Stata or some other software. You should verify\nthe string values returned are correct."
+    ]
+  },
+  "data_magnitude_gpt35.dta": {
+    "variable_labels": {
+      "gpt35_base": "gpt35_base",
+      "cutoff": "cutoff",
+      "coeff": "coeff",
+      "se": "se",
+      "p": "p",
+      "cilb": "cilb",
+      "ciub": "ciub",
+      "coefficient_a": "coefficient_a",
+      "coefficient_b": "coefficient_b",
+      "coefficient_c": "coefficient_c",
+      "coefficient_d": "coefficient_d",
+      "coefficient_e": "coefficient_e",
+      "coefficient_f": "coefficient_f",
+      "cilb_a": "cilb_a",
+      "cilb_b": "cilb_b",
+      "cilb_c": "cilb_c",
+      "cilb_d": "cilb_d",
+      "cilb_e": "cilb_e",
+      "cilb_f": "cilb_f",
+      "ciub_a": "ciub_a",
+      "ciub_b": "ciub_b",
+      "ciub_c": "ciub_c",
+      "ciub_d": "ciub_d",
+      "ciub_e": "ciub_e",
+      "ciub_f": "ciub_f",
+      "order_a": "order_a",
+      "order_b": "order_b",
+      "order_c": "order_c",
+      "order_d": "order_d",
+      "order_e": "order_e",
+      "order_f": "order_f"
+    },
+    "value_labels": {},
+    "warnings": []
+  },
+  "data_score_4models.dta": {
+    "variable_labels": {
+      "score_gemini": "Score_gemini-1.5-flash",
+      "score_llama": "Score_llama-3-70b",
+      "score_gpt4o": "Score_gpt-4o",
+      "score_claude": "Score_claude-3-5-sonnet-20240620",
+      "worknum": "Work Num",
+      "edunum": "Edu Num",
+      "skillnum": "Skill Num",
+      "avg_duration_work": "",
+      "num_high_level": "",
+      "avg_length_work_desc": "",
+      "first_work_start": "",
+      "last_work_title": "Work_1_Title",
+      "duration_edu": "",
+      "first_edu_start": "",
+      "highest_degree": "Edu_1_Level",
+      "igender": "Gender",
+      "iposition": "",
+      "iethnicity": "Ethnicity",
+      "istate": "State of Residence",
+      "minority": ""
+    },
+    "value_labels": {
+      "igender": {
+        "1": "female",
+        "2": "male"
+      },
+      "iethnicity": {
+        "1": "black",
+        "2": "white",
+        "3": "asian",
+        "4": "hispanic"
+      },
+      "iposition": {
+        "1": "administrative assistant",
+        "2": "animal care worker",
+        "3": "cashier",
+        "4": "dishwasher",
+        "5": "food preparation worker",
+        "6": "food server",
+        "7": "housekeeper",
+        "8": "information and record clerk",
+        "9": "janitor",
+        "10": "library assistant",
+        "11": "manufacturing worker",
+        "12": "medical assistant",
+        "13": "office clerk",
+        "14": "order clerk",
+        "15": "personal and home care aide",
+        "16": "receptionist and information",
+        "17": "retail salesperson",
+        "18": "shift manager",
+        "19": "social worker",
+        "20": "truck driver"
+      },
+      "istate": {
+        "1": "CA",
+        "2": "FL",
+        "3": "GA",
+        "4": "NY",
+        "5": "TX"
+      },
+      "highest_degree": {
+        "1": "associate",
+        "2": "bachelor",
+        "3": "high_school",
+        "4": "master",
+        "5": "others"
+      }
+    },
+    "warnings": []
+  }
+}

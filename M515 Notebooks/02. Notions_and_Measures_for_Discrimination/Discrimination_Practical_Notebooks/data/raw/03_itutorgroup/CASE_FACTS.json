@@ -1,0 +1,25 @@
+{
+  "source_url": "https://www.eeoc.gov/newsroom/itutorgroup-pay-365000-settle-eeoc-discriminatory-hiring-suit",
+  "source_date": "2023-09-11",
+  "source_kind": "EEOC settlement press release; no applicant-level dataset supplied",
+  "reported_allegation": {
+    "female_min_rejection_age": 55,
+    "male_min_rejection_age": 60,
+    "affected_qualified_applicants": "more than 200"
+  },
+  "settlement_usd": 365000,
+  "known_mechanism_inputs": [
+    "age",
+    "sex category"
+  ],
+  "known_mechanism_output": "automatic application rejection",
+  "unknown": [
+    "complete applicant features",
+    "all applicant outcomes",
+    "job-performance labels",
+    "sampling frame"
+  ],
+  "teaching_grid": "36 fictional rows: 9 ages \u00d7 2 rule categories \u00d7 2 invented eligibility states",
+  "teaching_eligibility": "invented work-sample score \u226570; not the real employer\u2019s rubric",
+  "scope": "Reconstruct the reported veto. Do not infer actual selection rates or an LLM model from this grid."
+}

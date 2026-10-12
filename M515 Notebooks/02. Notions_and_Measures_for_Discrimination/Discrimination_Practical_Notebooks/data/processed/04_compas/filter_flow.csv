@@ -1,0 +1,8 @@
+step,n
+raw,7214
+known screening-arrest interval,6907
+screening within plus/minus 30 days,6172
+known is_recid flag,6172
+exclude ordinary traffic charges,6172
+known COMPAS score text,6172
+Black/White comparative cohort,5278

@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "slides": 63,
+  "speaker_notes_verified": 63,
+  "checks": [
+    "template geometry and Calibri font retained",
+    "all four notebook filenames visible in case map",
+    "expected source text and notes present",
+    "old fictional hiring-audit content removed",
+    "on-slide confusion-matrix tutorial and four case calculation bridges",
+    "four notebook/data byte identities retained",
+    "README and instructor guide slide references synchronized",
+    "on-slide confusion-matrix tutorial and four case calculation bridges",
+    "four notebook/data byte identities retained",
+    "README and instructor guide slide references synchronized"
+  ],
+  "sha256": "dcd62aa12a44537e88a95641ca8f9f05a3faca817297117025910da116884a2d",
+  "native_tables": 55,
+  "layout_findings": 0,
+  "layout_warnings": 0,
+  "visual_review": "New and changed slides reviewed at full size. Whole deck scanned for unintended changes. Original case content preserved.",
+  "application_test": "PowerPoint application not opened; artifact rendering and package checks used.",
+  "tutorial_slides": [
+    5,
+    18
+  ],
+  "case_ranges": {
+    "C1": [
+      25,
+      31
+    ],
+    "C2": [
+      32,
+      37
+    ],
+    "C3": [
+      38,
+      43
+    ],
+    "C4": [
+      44,
+      52
+    ]
+  }
+}

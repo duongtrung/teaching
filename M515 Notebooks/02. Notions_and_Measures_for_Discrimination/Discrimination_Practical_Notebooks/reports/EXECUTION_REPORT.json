@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "method": "fresh in-process IPython shells; exact source cells with inline plots and rich displays",
+  "limitation": "A normal Jupyter kernel could not start because this hosted environment forbids socket binding. Server startup is not tested.",
+  "project_TODOs": "Not executed or completed; student extensions remain unfinished.",
+  "notebooks": [
+    {
+      "notebook": "01_an_resume_evaluation.ipynb",
+      "status": "passed",
+      "code_cells": 11,
+      "figures": 3,
+      "seconds": 7.6
+    },
+    {
+      "notebook": "02_iso_matching_proxies.ipynb",
+      "status": "passed",
+      "code_cells": 10,
+      "figures": 2,
+      "seconds": 2.04
+    },
+    {
+      "notebook": "03_itutorgroup_rule_audit.ipynb",
+      "status": "passed",
+      "code_cells": 10,
+      "figures": 2,
+      "seconds": 2.17
+    },
+    {
+      "notebook": "04_compas_error_disparities.ipynb",
+      "status": "passed",
+      "code_cells": 14,
+      "figures": 5,
+      "seconds": 4.55
+    }
+  ]
+}

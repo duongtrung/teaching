@@ -1,0 +1,184 @@
+{
+  "revision_utc": "2026-10-12T12:16:47.343320+00:00",
+  "raw_assets": [
+    {
+      "dataset": "01_an_resume",
+      "path": "data/raw/01_an_resume/Code.do",
+      "url": "https://osf.io/download/4a9su/",
+      "download_url": "https://files.osf.io/v1/resources/4dahv/providers/osfstorage/67cbc30c8527462368c9b9c0?action=download&version=1",
+      "sha256": "91bbbca2cfe700c425de4bdb2fba837a7fa1dbc58ad1f347aa93300806cb249e",
+      "expected_bytes": 35035,
+      "source": "https://osf.io/4dahv/",
+      "version": 1,
+      "license_status": "Public author replication release; no explicit dataset license confirmed in release metadata.",
+      "bytes": 35035,
+      "retrieved_utc": "2026-10-11T14:51:20.118962+00:00",
+      "evidence_kind": "downloaded_research_release"
+    },
+    {
+      "dataset": "01_an_resume",
+      "path": "data/raw/01_an_resume/ReadMe.txt",
+      "url": "https://osf.io/download/m3qw6/",
+      "download_url": "https://files.osf.io/v1/resources/4dahv/providers/osfstorage/67cb1533a40a3df3fefd74c1?action=download&version=1",
+      "sha256": "2f51022e2278d7a871ebf4ef211797276bed1b4126039e28e248266d9916f75d",
+      "expected_bytes": 443,
+      "source": "https://osf.io/4dahv/",
+      "version": 1,
+      "license_status": "Public author replication release; no explicit dataset license confirmed in release metadata.",
+      "bytes": 443,
+      "retrieved_utc": "2026-10-11T14:51:20.118962+00:00",
+      "evidence_kind": "downloaded_research_release"
+    },
+    {
+      "dataset": "01_an_resume",
+      "path": "data/raw/01_an_resume/data_bootstrap_gpt35.dta",
+      "url": "https://osf.io/download/8z35s/",
+      "download_url": "https://files.osf.io/v1/resources/4dahv/providers/osfstorage/67cb1465f4a971f6d5bb3dca?action=download&version=1",
+      "sha256": "bdf84660f97002562ebad01f9d5b0c47ee447b367431c0700ecdc80a2dddd7e8",
+      "expected_bytes": 173035,
+      "source": "https://osf.io/4dahv/",
+      "version": 1,
+      "license_status": "Public author replication release; no explicit dataset license confirmed in release metadata.",
+      "bytes": 173035,
+      "retrieved_utc": "2026-10-11T14:51:20.118962+00:00",
+      "evidence_kind": "downloaded_research_release"
+    },
+    {
+      "dataset": "01_an_resume",
+      "path": "data/raw/01_an_resume/data_gpt35_baseline.dta",
+      "url": "https://osf.io/download/zut79/",
+      "download_url": "https://files.osf.io/v1/resources/4dahv/providers/osfstorage/67cb152749eb2fa12bbb3703?action=download&version=1",
+      "sha256": "4f5e8a256c703b9b118178fa022243e6cd56bbe5d5430daa15c8680ee774538a",
+      "expected_bytes": 18703831,
+      "source": "https://osf.io/4dahv/",
+      "version": 1,
+      "license_status": "Public author replication release; no explicit dataset license confirmed in release metadata.",
+      "bytes": 18703831,
+      "retrieved_utc": "2026-10-11T14:51:20.118962+00:00",
+      "evidence_kind": "downloaded_research_release"
+    },
+    {
+      "dataset": "01_an_resume",
+      "path": "data/raw/01_an_resume/data_gpt35_heter.dta",
+      "url": "https://osf.io/download/sq6j3/",
+      "download_url": "https://files.osf.io/v1/resources/4dahv/providers/osfstorage/67cb1531530a594c95c9c556?action=download&version=1",
+      "sha256": "510a4a1cac21357484d274a2fa0edf2d81e646f0b65eabede0f73e947c87d150",
+      "expected_bytes": 21368271,
+      "source": "https://osf.io/4dahv/",
+      "version": 1,
+      "license_status": "Public author replication release; no explicit dataset license confirmed in release metadata.",
+      "bytes": 21368271,
+      "retrieved_utc": "2026-10-11T14:51:20.118962+00:00",
+      "evidence_kind": "downloaded_research_release"
+    },
+    {
+      "dataset": "01_an_resume",
+      "path": "data/raw/01_an_resume/data_magnitude_gpt35.dta",
+      "url": "https://osf.io/download/gc63s/",
+      "download_url": "https://files.osf.io/v1/resources/4dahv/providers/osfstorage/67cb152e79b5f16206040969?action=download&version=1",
+      "sha256": "9c86b22c5a3acc05518a159ab5a883efe8f6bf41b1437905afc22c519a75dffc",
+      "expected_bytes": 29395,
+      "source": "https://osf.io/4dahv/",
+      "version": 1,
+      "license_status": "Public author replication release; no explicit dataset license confirmed in release metadata.",
+      "bytes": 29395,
+      "retrieved_utc": "2026-10-11T14:51:20.118962+00:00",
+      "evidence_kind": "downloaded_research_release"
+    },
+    {
+      "dataset": "01_an_resume",
+      "path": "data/raw/01_an_resume/data_score_4models.dta",
+      "url": "https://osf.io/download/2t9xv/",
+      "download_url": "https://files.osf.io/v1/resources/4dahv/providers/osfstorage/67cb159c79b5f162060409c8?action=download&version=1",
+      "sha256": "db86face1e1d7f051070f217cbb8d05762554fa0eb43daedac15774dc1aad47e",
+      "expected_bytes": 21993856,
+      "source": "https://osf.io/4dahv/",
+      "version": 1,
+      "license_status": "Public author replication release; no explicit dataset license confirmed in release metadata.",
+      "bytes": 21993856,
+      "retrieved_utc": "2026-10-11T14:51:20.118962+00:00",
+      "evidence_kind": "downloaded_research_release"
+    },
+    {
+      "dataset": "04_compas",
+      "path": "data/raw/04_compas/compas-scores-two-years.csv",
+      "url": "https://raw.githubusercontent.com/propublica/compas-analysis/bafff5da3f2e45eca6c2d5055faad269defd135a/compas-scores-two-years.csv",
+      "download_url": "https://raw.githubusercontent.com/propublica/compas-analysis/bafff5da3f2e45eca6c2d5055faad269defd135a/compas-scores-two-years.csv",
+      "source": "https://github.com/propublica/compas-analysis",
+      "commit": "bafff5da3f2e45eca6c2d5055faad269defd135a",
+      "license_status": "Public ProPublica research release. No separate data license confirmed in fetched root; contains identifiable public-record fields.",
+      "sha256": "c451db85908b2f7fef1d83203bedf6b71ecda0d5af468d82ae62178f91d0cc7d",
+      "bytes": 2546489,
+      "retrieved_utc": "2026-10-11T14:51:20.118962+00:00",
+      "evidence_kind": "downloaded_research_release"
+    }
+  ],
+  "generated_assets": [
+    {
+      "dataset": "02_iso_matching",
+      "path": "data/raw/02_iso_matching/SOURCE_AND_SCOPE.json",
+      "evidence_kind": "curated_source_summary",
+      "bytes": 1006,
+      "sha256": "bc2008ed6bad079edb7f62df5c372df18ebfddd4536a81c8dda816ba248fa14a",
+      "generation_script": "scripts/generate_teaching_data.py",
+      "license_status": "Original teaching material. Source facts retain attribution."
+    },
+    {
+      "dataset": "02_iso_matching",
+      "path": "data/raw/02_iso_matching/synthetic_matching.jsonl",
+      "evidence_kind": "generated_teaching_data",
+      "bytes": 86960,
+      "sha256": "705b53539de6846e9b97bbc6dcdfb21b7d8251c42e02625e11faa8a699327551",
+      "generation_script": "scripts/generate_teaching_data.py",
+      "license_status": "Original teaching material. Source facts retain attribution."
+    },
+    {
+      "dataset": "03_itutorgroup",
+      "path": "data/raw/03_itutorgroup/CASE_FACTS.json",
+      "evidence_kind": "curated_source_summary",
+      "bytes": 1004,
+      "sha256": "487f21a234909ce6eacdc849d9441013be980a027906b8886d80131bda471d6e",
+      "generation_script": "scripts/generate_teaching_data.py",
+      "license_status": "Original teaching material. Source facts retain attribution."
+    },
+    {
+      "dataset": "03_itutorgroup",
+      "path": "data/raw/03_itutorgroup/synthetic_applicants.csv",
+      "evidence_kind": "generated_teaching_data",
+      "bytes": 2890,
+      "sha256": "4802e337ee27f400218577f71255e747fe6a4f6d1097961f7ef31aae5f6416c5",
+      "generation_script": "scripts/generate_teaching_data.py",
+      "license_status": "Original teaching material. Source facts retain attribution."
+    }
+  ],
+  "case_mapping": [
+    {
+      "case_id": "C1",
+      "notebook": "01_an_resume_evaluation.ipynb",
+      "dataset": "01_an_resume",
+      "evidence": "original author analysis release"
+    },
+    {
+      "case_id": "C2",
+      "notebook": "02_iso_matching_proxies.ipynb",
+      "dataset": "02_iso_matching",
+      "evidence": "explicit controlled teaching simulation"
+    },
+    {
+      "case_id": "C3",
+      "notebook": "03_itutorgroup_rule_audit.ipynb",
+      "dataset": "03_itutorgroup",
+      "evidence": "EEOC case facts and explicit fictional boundary grid"
+    },
+    {
+      "case_id": "C4",
+      "notebook": "04_compas_error_disparities.ipynb",
+      "dataset": "04_compas",
+      "evidence": "original public benchmark"
+    }
+  ],
+  "unavailable_original_data": [
+    "Iso/Machamp exact microdata",
+    "iTutorGroup applicant-level records in the supplied release"
+  ]
+}

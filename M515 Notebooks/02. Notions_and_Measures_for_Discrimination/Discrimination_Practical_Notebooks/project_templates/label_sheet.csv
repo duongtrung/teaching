@@ -1,0 +1,7 @@
+base_pair_id,role_id,annotator_id,match_label,confidence_1_to_5,reasoning,ambiguity,annotation_minutes,opt_out,support_needed
+pair_01,role_01,annotator_A,,,,,,,
+pair_01,role_01,annotator_B,,,,,,,
+pair_02,role_01,annotator_A,,,,,,,
+pair_02,role_01,annotator_B,,,,,,,
+pair_03,role_02,annotator_A,,,,,,,
+pair_03,role_02,annotator_B,,,,,,,

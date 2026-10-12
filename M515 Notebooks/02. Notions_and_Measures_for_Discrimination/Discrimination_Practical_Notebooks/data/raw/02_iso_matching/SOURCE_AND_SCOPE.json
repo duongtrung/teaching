@@ -1,0 +1,27 @@
+{
+  "paper": "Iso et al. (2025), NAACL Industry",
+  "url": "https://aclanthology.org/2025.naacl-industry.55/",
+  "original_dataset": "proprietary Machamp job–résumé pairs",
+  "original_unit": "job–résumé pair, repeatedly evaluated under controlled cue changes",
+  "reported_design": {
+    "occupational_groups": 40,
+    "base_pairs": 400,
+    "variants_per_pair": 80,
+    "LLMs": 12
+  },
+  "original_inputs": [
+    "job text",
+    "résumé text",
+    "manipulated names",
+    "manipulated educational institutions"
+  ],
+  "original_output": "LLM match score from 1 to 10",
+  "original_reference": "source matched/unmatched status; annotation validity remains an audit question",
+  "availability": "Exact experiment records are not shared in the paper. No original microdata are included here.",
+  "teaching_simulation": {
+    "base_pairs": 18,
+    "variants": 144,
+    "reference_rule": "all 3 skills AND at least 3 years",
+    "scorer": "transparent arithmetic teaching scorer, not an LLM"
+  }
+}

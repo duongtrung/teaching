@@ -1,0 +1,42 @@
+[
+  {
+    "case_id": "C1",
+    "notebook": "01_an_resume_evaluation.ipynb",
+    "cells": 26,
+    "markdown_words": 2644,
+    "slides": [
+      25,
+      31
+    ]
+  },
+  {
+    "case_id": "C2",
+    "notebook": "02_iso_matching_proxies.ipynb",
+    "cells": 21,
+    "markdown_words": 2426,
+    "slides": [
+      32,
+      37
+    ]
+  },
+  {
+    "case_id": "C3",
+    "notebook": "03_itutorgroup_rule_audit.ipynb",
+    "cells": 21,
+    "markdown_words": 2211,
+    "slides": [
+      38,
+      43
+    ]
+  },
+  {
+    "case_id": "C4",
+    "notebook": "04_compas_error_disparities.ipynb",
+    "cells": 33,
+    "markdown_words": 3329,
+    "slides": [
+      44,
+      52
+    ]
+  }
+]

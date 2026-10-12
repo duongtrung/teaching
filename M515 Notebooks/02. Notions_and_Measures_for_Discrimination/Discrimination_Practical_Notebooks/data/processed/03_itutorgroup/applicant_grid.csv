@@ -1,0 +1,37 @@
+applicant_id,age_years,sex_rule_category,work_sample,teaching_eligible,provenance,y,age_band
+T001,30,female,50,0,generated boundary grid; not actual iTutorGroup applicants,0,under 55
+T002,30,female,80,1,generated boundary grid; not actual iTutorGroup applicants,1,under 55
+T003,30,male,50,0,generated boundary grid; not actual iTutorGroup applicants,0,under 55
+T004,30,male,80,1,generated boundary grid; not actual iTutorGroup applicants,1,under 55
+T005,40,female,50,0,generated boundary grid; not actual iTutorGroup applicants,0,under 55
+T006,40,female,80,1,generated boundary grid; not actual iTutorGroup applicants,1,under 55
+T007,40,male,50,0,generated boundary grid; not actual iTutorGroup applicants,0,under 55
+T008,40,male,80,1,generated boundary grid; not actual iTutorGroup applicants,1,under 55
+T009,54,female,50,0,generated boundary grid; not actual iTutorGroup applicants,0,under 55
+T010,54,female,80,1,generated boundary grid; not actual iTutorGroup applicants,1,under 55
+T011,54,male,50,0,generated boundary grid; not actual iTutorGroup applicants,0,under 55
+T012,54,male,80,1,generated boundary grid; not actual iTutorGroup applicants,1,under 55
+T013,55,female,50,0,generated boundary grid; not actual iTutorGroup applicants,0,55–59
+T014,55,female,80,1,generated boundary grid; not actual iTutorGroup applicants,1,55–59
+T015,55,male,50,0,generated boundary grid; not actual iTutorGroup applicants,0,55–59
+T016,55,male,80,1,generated boundary grid; not actual iTutorGroup applicants,1,55–59
+T017,56,female,50,0,generated boundary grid; not actual iTutorGroup applicants,0,55–59
+T018,56,female,80,1,generated boundary grid; not actual iTutorGroup applicants,1,55–59
+T019,56,male,50,0,generated boundary grid; not actual iTutorGroup applicants,0,55–59
+T020,56,male,80,1,generated boundary grid; not actual iTutorGroup applicants,1,55–59
+T021,59,female,50,0,generated boundary grid; not actual iTutorGroup applicants,0,55–59
+T022,59,female,80,1,generated boundary grid; not actual iTutorGroup applicants,1,55–59
+T023,59,male,50,0,generated boundary grid; not actual iTutorGroup applicants,0,55–59
+T024,59,male,80,1,generated boundary grid; not actual iTutorGroup applicants,1,55–59
+T025,60,female,50,0,generated boundary grid; not actual iTutorGroup applicants,0,60 and over
+T026,60,female,80,1,generated boundary grid; not actual iTutorGroup applicants,1,60 and over
+T027,60,male,50,0,generated boundary grid; not actual iTutorGroup applicants,0,60 and over
+T028,60,male,80,1,generated boundary grid; not actual iTutorGroup applicants,1,60 and over
+T029,61,female,50,0,generated boundary grid; not actual iTutorGroup applicants,0,60 and over
+T030,61,female,80,1,generated boundary grid; not actual iTutorGroup applicants,1,60 and over
+T031,61,male,50,0,generated boundary grid; not actual iTutorGroup applicants,0,60 and over
+T032,61,male,80,1,generated boundary grid; not actual iTutorGroup applicants,1,60 and over
+T033,70,female,50,0,generated boundary grid; not actual iTutorGroup applicants,0,60 and over
+T034,70,female,80,1,generated boundary grid; not actual iTutorGroup applicants,1,60 and over
+T035,70,male,50,0,generated boundary grid; not actual iTutorGroup applicants,0,60 and over
+T036,70,male,80,1,generated boundary grid; not actual iTutorGroup applicants,1,60 and over
