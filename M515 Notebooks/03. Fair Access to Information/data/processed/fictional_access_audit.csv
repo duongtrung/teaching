@@ -1,0 +1,13 @@
+person,group,arrival_round,reached,understands_action,can_use_next_step,barrier,provenance,usable_next_step
+R1,Resident,0,True,1,1,none,fictional teaching assumption,True
+R2,Resident,0,True,1,1,none,fictional teaching assumption,True
+R3,Resident,1,True,1,1,none,fictional teaching assumption,True
+R4,Resident,1,True,1,1,none,fictional teaching assumption,True
+R5,Resident,1,True,1,0,alternate_format,fictional teaching assumption,False
+R6,Resident,1,True,1,1,none,fictional teaching assumption,True
+C1,Commuter,1,True,1,1,none,fictional teaching assumption,True
+C2,Commuter,1,True,1,1,none,fictional teaching assumption,True
+C3,Commuter,2,True,0,1,unclear_action,fictional teaching assumption,False
+C4,Commuter,2,True,1,1,none,fictional teaching assumption,True
+C5,Commuter,2,True,1,1,none,fictional teaching assumption,True
+C6,Commuter,0,True,1,0,form_assistance,fictional teaching assumption,False

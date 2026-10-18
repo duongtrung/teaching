@@ -1,0 +1,13 @@
+person,group,arrival_round,reached
+R1,Resident,0,True
+R2,Resident,0,True
+R3,Resident,1,True
+R4,Resident,1,True
+R5,Resident,1,True
+R6,Resident,1,True
+C1,Commuter,1,True
+C2,Commuter,1,True
+C3,Commuter,2,True
+C4,Commuter,2,True
+C5,Commuter,2,True
+C6,Commuter,0,True

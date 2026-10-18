@@ -1,0 +1,13 @@
+person,group,P1_informed,P2_informed,change
+R1,Resident,True,True,Informed under both
+R2,Resident,True,False,Loses under P2
+R3,Resident,True,True,Informed under both
+R4,Resident,True,True,Informed under both
+R5,Resident,True,True,Informed under both
+R6,Resident,True,False,Loses under P2
+C1,Commuter,True,True,Informed under both
+C2,Commuter,True,False,Loses under P2
+C3,Commuter,False,True,Gains under P2
+C4,Commuter,False,True,Gains under P2
+C5,Commuter,False,True,Gains under P2
+C6,Commuter,False,False,Missed under both

@@ -1,0 +1,13 @@
+person,understands_action,can_use_next_step,barrier,provenance
+R1,1,1,none,fictional teaching assumption
+R2,1,1,none,fictional teaching assumption
+R3,1,1,none,fictional teaching assumption
+R4,1,1,none,fictional teaching assumption
+R5,1,0,alternate_format,fictional teaching assumption
+R6,1,1,none,fictional teaching assumption
+C1,1,1,none,fictional teaching assumption
+C2,1,1,none,fictional teaching assumption
+C3,0,1,unclear_action,fictional teaching assumption
+C4,1,1,none,fictional teaching assumption
+C5,1,1,none,fictional teaching assumption
+C6,1,0,form_assistance,fictional teaching assumption
