@@ -1,6 +1,6 @@
 # Fair access to information: calculations and ethical decisions
 
-Matching deck: 03_Fair_Access_to_Information_Ethical_Decisions.pptx. One fictional case matches one notebook.
+Matching deck: 03. Fair_Access_to_Information.pptx. One fictional case matches one notebook.
 
 Unzip the whole folder. Install requirements and open notebooks/01_fair_information_access.ipynb. Run the setup first. Part 1 explains the data, calculations and ethical issues. Part 2 offers final-project hints and TODOs. TODO functions raise only when called.
 
