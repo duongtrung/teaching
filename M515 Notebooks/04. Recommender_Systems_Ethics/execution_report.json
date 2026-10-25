@@ -1,0 +1,14 @@
+[
+  {
+    "notebook": "01_recommender_foundations.ipynb",
+    "code_cells_executed": 13,
+    "figures": 2,
+    "errors": 0
+  },
+  {
+    "notebook": "02_recommender_ethical_audit.ipynb",
+    "code_cells_executed": 12,
+    "figures": 3,
+    "errors": 0
+  }
+]

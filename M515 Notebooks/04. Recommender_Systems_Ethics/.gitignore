@@ -1,0 +1,12 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+data/raw/movielens-100k/*
+!data/raw/movielens-100k/DOWNLOAD_HERE.txt
+data/processed/*_cache.npz
+data/processed/train.csv
+data/processed/validation.csv
+data/processed/test.csv
+data/processed/movies.csv
+data/processed/*_per_user.csv
+data/processed/*_recommendations.csv

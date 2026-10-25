@@ -1,0 +1,248 @@
+{
+  "audit": {
+    "ItemKNN": {
+      "catalog_coverage": 0.1624923640806353,
+      "long_tail_exposure_share": 0.6428972133633267,
+      "mean_genre_diversity": 0.6684242658830489,
+      "mean_novelty_bits": 11.50603979324691
+    },
+    "MMR": {
+      "catalog_coverage": 0.16737935247403787,
+      "long_tail_exposure_share": 0.6532645317769424,
+      "mean_genre_diversity": 0.8289138897826428,
+      "mean_novelty_bits": 11.53938376221198
+    }
+  },
+  "mmr_metrics": {
+    "RMSE": 1.120262277324072,
+    "MAE": 0.9331522562920258,
+    "NDCG@10": 0.06189340416934388,
+    "Recall@10": 0.012584483542690874,
+    "Precision@10": 0.057516339869281036,
+    "evaluated_users": 153,
+    "test_users": 166,
+    "cold_test_users": 76,
+    "cold_positive_events": 53
+  },
+  "groups": [
+    {
+      "group": "cold",
+      "n": 76,
+      "ndcg": 0.11856300057210223,
+      "lo": 0.08898771049045387,
+      "hi": 0.1531995204783631
+    },
+    {
+      "group": "low_history",
+      "n": 10,
+      "ndcg": 0.007336392209936006,
+      "lo": 0.0,
+      "hi": 0.02200917662980802
+    },
+    {
+      "group": "middle",
+      "n": 32,
+      "ndcg": 0.0,
+      "lo": 0.0,
+      "hi": 0.0
+    },
+    {
+      "group": "high_history",
+      "n": 35,
+      "ndcg": 0.0074154290466003905,
+      "lo": 0.0,
+      "hi": 0.01658626896379443
+    }
+  ],
+  "history_thresholds": [
+    33.0,
+    147.0
+  ],
+  "paired_ndcg_change_ci": [
+    0.0008235219326762927,
+    -0.008131393092629217,
+    0.010208234553292991
+  ],
+  "metrics": [
+    {
+      "RMSE": 1.0413622381902632,
+      "MAE": 0.8506531577482579,
+      "NDCG@10": 0.2246262745996124,
+      "Recall@10": 0.07985463126712264,
+      "Precision@10": 0.2019607843137255,
+      "evaluated_users": 153,
+      "test_users": 166,
+      "cold_test_users": 76,
+      "cold_positive_events": 53,
+      "model": "Popularity"
+    },
+    {
+      "RMSE": 1.120262277324072,
+      "MAE": 0.9331522562920258,
+      "NDCG@10": 0.06106988223666757,
+      "Recall@10": 0.012323910553648792,
+      "Precision@10": 0.0542483660130719,
+      "evaluated_users": 153,
+      "test_users": 166,
+      "cold_test_users": 76,
+      "cold_positive_events": 53,
+      "model": "ItemKNN"
+    },
+    {
+      "RMSE": 1.024004059475099,
+      "MAE": 0.8241509714347878,
+      "NDCG@10": 0.17755437999711074,
+      "Recall@10": 0.06237700935422617,
+      "Precision@10": 0.16339869281045752,
+      "evaluated_users": 153,
+      "test_users": 166,
+      "cold_test_users": 76,
+      "cold_positive_events": 53,
+      "model": "BiasedMF"
+    }
+  ],
+  "dataset": {
+    "users": 943,
+    "movies": 1682,
+    "ratings": 100000,
+    "density": 0.06304669364224531,
+    "date_min": "1997-09-20 03:05:10+00:00",
+    "date_max": "1998-04-22 23:10:38+00:00",
+    "split_times": {
+      "train": [
+        "1997-09-20 03:05:10+00:00",
+        "1998-03-07 02:21:09+00:00"
+      ],
+      "validation": [
+        "1998-03-07 02:21:09+00:00",
+        "1998-03-31 22:11:07+00:00"
+      ],
+      "test": [
+        "1998-03-31 22:11:49+00:00",
+        "1998-04-22 23:10:38+00:00"
+      ]
+    },
+    "fit_catalog": 1637,
+    "top20_rating_share": 0.6427222222222222
+  },
+  "mf_optimization": {
+    "iterations": 183,
+    "success": true,
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "loss": 67409.09076710574
+  },
+  "math": {
+    "cosine": {
+      "Omar": 0.9761904761904762,
+      "Maya": 0.50709255283711,
+      "Noah": 0.9890939683907076
+    },
+    "pearson": {
+      "Omar": 0.8846153846153847,
+      "Maya": -1.0,
+      "Noah": 0.9958705948858223
+    },
+    "predictions": {
+      "C3": 4.496717143862861,
+      "C5": 2.503282856137138,
+      "C6": 3.503282856137138
+    },
+    "centered_C3": 4.293891326857984,
+    "content_cos_ML": 0.9938837346736188,
+    "content_cos_DB": 0.7808688094430304,
+    "ndcg_binary": 0.9197207891481876,
+    "provider_weights": [
+      1.0,
+      0.6309297535714575,
+      0.5
+    ],
+    "provider_small_share": 0.2960819109658652,
+    "provider_base_dcg": 12.916508275000202,
+    "provider_new_dcg": 12.392789260714373,
+    "provider_new_ndcg": 0.9594535145926796,
+    "mae": 1.0,
+    "rmse": 1.2909944487358056
+  },
+  "feedback": [
+    {
+      "policy": "exploit",
+      "round": 0,
+      "head_exposure": 16.0,
+      "tail_exposure": 4.0,
+      "head_clicks": 8.0,
+      "tail_clicks": 2.0
+    },
+    {
+      "policy": "exploit",
+      "round": 1,
+      "head_exposure": 16.0,
+      "tail_exposure": 4.0,
+      "head_clicks": 8.0,
+      "tail_clicks": 2.0
+    },
+    {
+      "policy": "exploit",
+      "round": 2,
+      "head_exposure": 16.0,
+      "tail_exposure": 4.0,
+      "head_clicks": 8.0,
+      "tail_clicks": 2.0
+    },
+    {
+      "policy": "exploit",
+      "round": 3,
+      "head_exposure": 16.0,
+      "tail_exposure": 4.0,
+      "head_clicks": 8.0,
+      "tail_clicks": 2.0
+    },
+    {
+      "policy": "exploit",
+      "round": 4,
+      "head_exposure": 16.0,
+      "tail_exposure": 4.0,
+      "head_clicks": 8.0,
+      "tail_clicks": 2.0
+    },
+    {
+      "policy": "explore_20pct",
+      "round": 0,
+      "head_exposure": 14.800000000000002,
+      "tail_exposure": 5.2,
+      "head_clicks": 7.400000000000001,
+      "tail_clicks": 2.6
+    },
+    {
+      "policy": "explore_20pct",
+      "round": 1,
+      "head_exposure": 14.320000000000002,
+      "tail_exposure": 5.680000000000001,
+      "head_clicks": 7.160000000000001,
+      "tail_clicks": 2.8400000000000003
+    },
+    {
+      "policy": "explore_20pct",
+      "round": 2,
+      "head_exposure": 14.032000000000002,
+      "tail_exposure": 5.968,
+      "head_clicks": 7.016000000000001,
+      "tail_clicks": 2.984
+    },
+    {
+      "policy": "explore_20pct",
+      "round": 3,
+      "head_exposure": 13.830400000000001,
+      "tail_exposure": 6.169599999999999,
+      "head_clicks": 6.9152000000000005,
+      "tail_clicks": 3.0847999999999995
+    },
+    {
+      "policy": "explore_20pct",
+      "round": 4,
+      "head_exposure": 13.677184,
+      "tail_exposure": 6.322815999999999,
+      "head_clicks": 6.838592,
+      "tail_clicks": 3.1614079999999993
+    }
+  ]
+}

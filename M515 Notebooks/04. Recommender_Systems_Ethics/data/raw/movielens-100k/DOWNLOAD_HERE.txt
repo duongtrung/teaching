@@ -1,0 +1,3 @@
+MovieLens 100K is downloaded here by src/download_data.py (or the first notebook).
+The source license restricts redistribution; raw source records and individual processed data are excluded from the teaching ZIP. Read the downloaded README before reuse or publication. Do not commit these files to a public Git repository.
+Primary: https://grouplens.org/datasets/movielens/100k/

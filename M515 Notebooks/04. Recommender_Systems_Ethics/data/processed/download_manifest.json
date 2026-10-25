@@ -1,0 +1,48 @@
+{
+  "primary": "https://grouplens.org/datasets/movielens/100k/",
+  "retrieval_note": "Official host returned 503. A public mirror was used; schema and counts checked, official byte checksum not independently verified.",
+  "files": [
+    {
+      "file": "README",
+      "sha256": "4883b8cf340ed0059971b33f56ad3adc88a40792108ebca3d24aafc4c82e8b52",
+      "bytes": 6750,
+      "retrieved_from": "https://raw.githubusercontent.com/chiang9/Medium_blog/main/data/ml-100k/README"
+    },
+    {
+      "file": "u.data",
+      "sha256": "06416e597f82b7342361e41163890c81036900f418ad91315590814211dca490",
+      "bytes": 1979173,
+      "retrieved_from": "https://raw.githubusercontent.com/chiang9/Medium_blog/main/data/ml-100k/u.data"
+    },
+    {
+      "file": "u.genre",
+      "sha256": "48c0197cf7aa88ff61797dfe07ed2ffd3c5555c8b9f9430b738c053525461061",
+      "bytes": 201,
+      "retrieved_from": "https://raw.githubusercontent.com/chiang9/Medium_blog/main/data/ml-100k/u.genre"
+    },
+    {
+      "file": "u.info",
+      "sha256": "5b0a40b2e47a729ee6203063f6dcf8790c2e63f5a18663e6ee318a72c5f3c27b",
+      "bytes": 36,
+      "retrieved_from": "https://raw.githubusercontent.com/chiang9/Medium_blog/main/data/ml-100k/u.info"
+    },
+    {
+      "file": "u.item",
+      "sha256": "553841ebc7de3a0fd0d6b62a204ea30c1e651aacfb2814c7a6584ac52f2c5701",
+      "bytes": 236344,
+      "retrieved_from": "https://raw.githubusercontent.com/chiang9/Medium_blog/main/data/ml-100k/u.item"
+    },
+    {
+      "file": "u.occupation",
+      "sha256": "cd5fbec9afe345d993a62fc7817df1a4a9079c4feb267b3118763b8fd942137d",
+      "bytes": 193,
+      "retrieved_from": "https://raw.githubusercontent.com/chiang9/Medium_blog/main/data/ml-100k/u.occupation"
+    },
+    {
+      "file": "u.user",
+      "sha256": "f120e114da2e8cf314fd28f99417c94ae9ddf1cb6db8ce0e4b5995d40e90e62c",
+      "bytes": 22628,
+      "retrieved_from": "https://raw.githubusercontent.com/chiang9/Medium_blog/main/data/ml-100k/u.user"
+    }
+  ]
+}
