@@ -1,0 +1,9 @@
+{
+  "invited": "Benefit: access to an online assessment, not a job offer.",
+  "denied": "1 means assessment invitation denied.",
+  "meets_minimum": "Meets this fictional scenario's stated skill cutoff. Actual job validity is assumed for teaching.",
+  "ready_for_work": "Engineered from has_car. Its positive-sounding name does not establish validity.",
+  "report_included": "A misleading audit sample excludes carless people. Raw applications are all complete.",
+  "invited_revised": "Separate output from the reviewed rule; original decisions remain intact.",
+  "capacity": "40 assessment seats; all 40 meet the stated cutoff."
+}

@@ -1,0 +1,24 @@
+{
+  "python": "3.12.14",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scipy": "1.17.0",
+    "matplotlib": "3.10.8"
+  },
+  "execution_scope": "All Python code cells executed sequentially in a fresh process for each notebook. Saved stdout and figures included. Native Jupyter UI was not exercised.",
+  "notebooks": [
+    {
+      "file": "notebooks/01_counts_uncertainty_and_false_alarms.ipynb",
+      "executed_code_cells": 11,
+      "figures": 4,
+      "errors": 0
+    },
+    {
+      "file": "notebooks/02_feature_engineering_and_selection_bias.ipynb",
+      "executed_code_cells": 10,
+      "figures": 3,
+      "errors": 0
+    }
+  ]
+}

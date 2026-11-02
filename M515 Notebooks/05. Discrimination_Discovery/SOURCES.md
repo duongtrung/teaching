@@ -1,0 +1,10 @@
+# Primary sources and reading
+1. Ruggieri, S., Pedreschi, D., & Turini, F. (2010). **Data mining for discrimination discovery.** TKDD 4(2), Article 9. https://doi.org/10.1145/1754428.1754432 . Rule-based discovery foundation; the finite teaching enumeration is simplified.
+2. NIST/SEMATECH e-Handbook, **7.2.4.1 Confidence intervals.** https://www.itl.nist.gov/div898/handbook/prc/section2/prc241.htm . Wilson score formulas and proportion-interval framing.
+3. Public Health Data Science (2018), **Confidence Intervals**, Appendix 3. https://fingertips.phe.org.uk/documents/PHDS%20Guidance%20-%20Confidence%20Intervals.pdf . Wilson recipe and the 97.5th standard-normal percentile for a two-sided 95% interval.
+4. NIST, **Statistical Methods**, multiple comparisons and Bonferroni. https://www.nist.gov/system/files/documents/2017/05/09/combine-1.pdf . Family error and correction reasoning.
+5. Wasserstein, R. L., & Lazar, N. A. (2016). **The ASA Statement on p-Values: Context, Process, and Purpose.** https://doi.org/10.1080/00031305.2016.1154108 . Interpretation, full reporting and limits of threshold-based claims. ASA release: https://www.amstat.org/asa/files/pdfs/P-ValueStatement.pdf .
+6. SciPy 1.17.0 documentation, **fisher_exact**. https://docs.scipy.org/doc/scipy-1.17.0/reference/generated/scipy.stats.fisher_exact.html . Conditional null and two-sided p-value definition.
+7. Suresh, H., & Guttag, J. (2021). **A Framework for Understanding Sources of Harm throughout the Machine Learning Life Cycle.** https://doi.org/10.1145/3465416.3483305 . Authors' educational discussion: https://mit-serc.pubpub.org/pub/potential-sources-of-harm-throughout-the-machine-learning-life-cycle/release/1 . Measurement, representation and evaluation issues used to frame feature/sampling review.
+
+Sources checked 1 November 2026. The synthetic hiring data, lottery counts and examples are newly constructed teaching material, not reproductions of a paper's empirical dataset. No real demographic/car-ownership relationship is claimed. No full third-party papers are redistributed. Institutional artwork remains in the supplied PowerPoint template.

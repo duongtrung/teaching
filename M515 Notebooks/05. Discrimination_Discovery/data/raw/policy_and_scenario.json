@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "benefit": "Invitation to an online Analyst assessment",
+  "minimum_skill": 70,
+  "assessment_seats": 40,
+  "working_mode": "online",
+  "raw_applications_complete": 40,
+  "original_rule": "invite if skill>=70 AND has_car==1",
+  "engineered_feature": "ready_for_work = has_car",
+  "misleading_reporting_rule": "include only ready_for_work==1, while describing the report as all complete applications",
+  "revised_rule": "invite if skill>=70, within the stated capacity of 40",
+  "group_note": "Two constructed categories for arithmetic, not a complete identity taxonomy."
+}

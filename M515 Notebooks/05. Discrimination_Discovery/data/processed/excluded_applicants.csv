@@ -1,0 +1,17 @@
+record_id,group,role,skill_score,certificate,experience_years,has_car,application_complete,meets_minimum,ready_for_work,invited,denied,report_included
+W01,Women,Analyst,77,0,1,0,1,1,0,0,1,0
+W02,Women,Analyst,84,0,2,0,1,1,0,0,1,0
+W03,Women,Analyst,91,0,1,0,1,1,0,0,1,0
+W04,Women,Analyst,98,0,2,0,1,1,0,0,1,0
+W06,Women,Analyst,81,0,3,0,1,1,0,0,1,0
+W07,Women,Analyst,88,0,4,0,1,1,0,0,1,0
+W08,Women,Analyst,95,0,5,0,1,1,0,0,1,0
+W11,Women,Analyst,85,1,1,0,1,1,0,0,1,0
+W12,Women,Analyst,92,1,2,0,1,1,0,0,1,0
+W13,Women,Analyst,99,1,1,0,1,1,0,0,1,0
+W16,Women,Analyst,89,1,3,0,1,1,0,0,1,0
+W17,Women,Analyst,96,1,4,0,1,1,0,0,1,0
+M01,Men,Analyst,77,0,1,0,1,1,0,0,1,0
+M06,Men,Analyst,81,0,3,0,1,1,0,0,1,0
+M11,Men,Analyst,85,1,1,0,1,1,0,0,1,0
+M16,Men,Analyst,89,1,3,0,1,1,0,0,1,0
