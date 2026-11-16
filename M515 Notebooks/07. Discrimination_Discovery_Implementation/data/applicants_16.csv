@@ -1,0 +1,17 @@
+applicant,group,experience,skill,has_car,qualifies
+W01,Women,0–2 years,68,0,1
+W02,Women,0–2 years,66,0,1
+W03,Women,0–2 years,65,0,0
+W04,Women,0–2 years,74,1,1
+W05,Women,3+ years,75,0,1
+W06,Women,3+ years,78,1,1
+W07,Women,3+ years,71,0,1
+W08,Women,3+ years,58,0,0
+M01,Men,0–2 years,68,1,1
+M02,Men,0–2 years,66,1,1
+M03,Men,0–2 years,55,0,0
+M04,Men,0–2 years,74,1,1
+M05,Men,3+ years,75,1,1
+M06,Men,3+ years,78,0,1
+M07,Men,3+ years,71,1,1
+M08,Men,3+ years,58,0,0
